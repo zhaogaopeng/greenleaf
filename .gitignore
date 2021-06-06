@@ -1,0 +1,3 @@
+# Project exclude paths
+/greenleaf-autoCount/target/
+/greenleaf-common/target/

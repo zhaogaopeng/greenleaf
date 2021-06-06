@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pig-common/pig-common-job/pig-common-job.iml" filepath="$PROJECT_DIR$/pig-common/pig-common-job/pig-common-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig-common/pig-common-log/pig-common-log.iml" filepath="$PROJECT_DIR$/pig-common/pig-common-log/pig-common-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig-common/pig-common-swagger/pig-common-swagger.iml" filepath="$PROJECT_DIR$/pig-common/pig-common-swagger/pig-common-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig-common/pig-common-test/pig-common-test.iml" filepath="$PROJECT_DIR$/pig-common/pig-common-test/pig-common-test.iml" />
+    </modules>
+  </component>
+</project>

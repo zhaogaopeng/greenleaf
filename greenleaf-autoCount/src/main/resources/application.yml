@@ -1,0 +1,23 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: greenleaf-autoCount
+
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url:
+      jdbc:mysql://localhost:3306/cloud2020?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: root
+
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.zgp.entity
+
+
+
+
+
