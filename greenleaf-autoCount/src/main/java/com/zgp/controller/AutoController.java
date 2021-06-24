@@ -27,6 +27,7 @@ public class AutoController {
     public String ok(String id){
         String i = String.valueOf(RandomUtil.randomInt());
         Staff satffByName = staffService.getSatffByName(id);
+
         return satffByName.toString();
     }
 
